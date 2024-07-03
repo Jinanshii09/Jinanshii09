@@ -32,8 +32,8 @@ const jinn = {
 
   adventures: "Navigating the data cosmos, orchestrating AI constellations, fortifying cyber citadels, and sculpting digital frontiers"
 }
-
 ```
+
 <br/>
 <br/>
 
@@ -134,7 +134,7 @@ const jinn = {
 Hit this in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npx jinanshii
 ```
 
 
@@ -160,6 +160,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <br/>
 
+
+
 ## 💬 Ask me about
 
 - Cyber Security & Forensics                
@@ -174,7 +176,6 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 - Deep Learning & Neural Networks
 - Network Security & Threat Intelligence
 - Human-Computer Interaction (HCI)
-
 
 
 
