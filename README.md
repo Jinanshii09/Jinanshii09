@@ -1,6 +1,13 @@
 
 <h1 align="center">Heyy, I'm Jinanshi 👋 </h1>
-<h3 align="center">A Human from India</h3>
+
+<!-- Typing SVG -->
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=A%20Human%20from%20India&font=Fira%20Code&center=true&width=440&height=45&color=28a745&vCenter=true&pause=1000&size=22&style=bold" /></a>
+</p>
+<br/>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
 
@@ -30,11 +37,7 @@ const jinn = {
 <br/>
 <br/>
 
-<!-- SQL-like statement -->
-<p align="center" style="color: #28a745; font-weight: bold;">
-  SELECT 'Developer' || 'Data Scientist' || 'AI Enthusiast' || 'Cyber Sentinel' AS Synergy_of_Expertise,
-  '4+ years of coding experience', 'always learning new things'
-</p>
+
 
 <!-- Typing SVG -->
 <p align="center">
@@ -128,18 +131,17 @@ const jinn = {
 
 ---
 
+Hit this in your console or terminal to connect with me.
+
+```bash
+npx anmol
+```
 
 
 
-
-
-
-
-
-
-- 📫 How to reach me: jinanshii09@gmail.com
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other great minds
+- 📫 Reach out at: jinanshii09@gmail.com
 
 
 ### 📫 Like to meet me?
@@ -148,36 +150,19 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <a href="(https://calendly.com/jinanshii09/30min)" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
-👇 Hit in your console or terminal to connect with me.
 
-```bash
-npx anmol
-```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
 
 ---
 
 
 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C855%20hrs%2015%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1185-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20million%20lines%20of%20code-blue)
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jinanshii09.jinanshii09)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jinanshii09.jinanshii09&left_color=green&right_color=red)
-
-
-
-
+<br/>
 
 ## 💬 Ask me about
 
-- Cyber Security & Forensics
+- Cyber Security & Forensics                
 - Backend development 
 - Machine Learning
 - Data Science & Analysis
@@ -210,8 +195,9 @@ npx anmol
   </ul>
 </div> -->
 
-
-
+```SQL
+  SELECT 'Developer' || 'Data Scientist' || 'AI Enthusiast' || 'Cyber Sentinel' AS Synergy_of_Expertise
+```
 <div align="center">
   <h2 align="center">Connect with me:</h2>
 
