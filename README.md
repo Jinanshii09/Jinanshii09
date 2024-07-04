@@ -143,10 +143,8 @@ npx jinanshi
 <br/>
 
 ### 📫 Like to meet me?
+<a href="https://calendly.com/jinanshii09/30min" target="_blank">Pick a slot</a> if you'd like to meet me and chat about anything you're passionate about – just describe your agenda with a dash of creativity and be ready for a fun, idea-packed conversation!
 
-Pick a slot if you'd like to meet me and chat about anything you're passionate about – just describe your agenda with a dash of creativity and be ready for a fun, idea-packed conversation!
-<br/><br/>
-<a href="(https://calendly.com/jinanshii09/30min)" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 <br/>
 
 
