@@ -9,6 +9,10 @@
 </p>
 <br/>
 
+```SQL
+            SELECT 'Developer' || 'Data Scientist' || 'AI Enthusiast' || 'Cyber Sentinel' AS Synergy_of_Expertise
+```
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
 
 ```javascript
@@ -16,7 +20,7 @@
 const jinn = {
 
   pronouns: "she" | "her",
-  domains: ["multilingual Code Maestro", "data detective", "cyber sentinel"],
+  domains: ["multilingual code maestro", "data detective", "cyber sentinel"],
   passions: ["decoding anomalies", "securing the digital realm"],
 
   mindscape: {
@@ -131,25 +135,19 @@ const jinn = {
 
 ---
 
-Hit this in your console or terminal to connect with me.
+## Hit this in your console or terminal to connect with me.
 
 ```bash
-npx jinanshii
+npx jinanshi
 ```
-
-
-
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other great minds
-- 📫 Reach out at: jinanshii09@gmail.com
-
+<br/>
 
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
 <a href="(https://calendly.com/jinanshii09/30min)" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
+<br/>
 
 
 ---
@@ -162,20 +160,27 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 
 
-## 💬 Ask me about
 
-- Cyber Security & Forensics                
-- Backend development 
-- Machine Learning
-- Data Science & Analysis
-- Big Data Technologies
-- Application Development
-- Artificial Intelligence
-- Data Warehousing & ETL Pipelines
-- Blockchain & Cryptography
-- Deep Learning & Neural Networks
-- Network Security & Threat Intelligence
-- Human-Computer Interaction (HCI)
+> ## 💬 Ask me about
+> 
+> ```
+> - Cyber Security & Forensics  
+> - Backend Development  
+> - Machine Learning  
+> - Data Science & Analysis  
+> - Big Data Technologies  
+> - Application Development  
+> - Artificial Intelligence  
+> - Data Warehousing & ETL Pipelines  
+> - Blockchain & Cryptography  
+> - Deep Learning & Neural Networks  
+> - Network Security & Threat Intelligence  
+> - Human-Computer Interaction (HCI)
+> ```
+> 
+> <div align="center">
+>   <p>Basically, I'm a sponge soaking up all the knowledge I can!</p>
+> </div>
 
 
 
@@ -196,9 +201,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
   </ul>
 </div> -->
 
-```SQL
-  SELECT 'Developer' || 'Data Scientist' || 'AI Enthusiast' || 'Cyber Sentinel' AS Synergy_of_Expertise
-```
+
 <div align="center">
   <h2 align="center">Connect with me:</h2>
 
