@@ -10,7 +10,7 @@
 <br/>
 
 ```SQL
-            SELECT 'Developer' || 'Data Scientist' || 'AI Enthusiast' || 'Cyber Sentinel' AS Synergy_of_Expertise
+SELECT 'Developer' || 'Data Scientist' || 'AI Enthusiast' || 'Cyber Sentinel' AS Synergy_of_Expertise
 ```
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me 
